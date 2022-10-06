@@ -1,3 +1,2 @@
-# LangPortal
-AIM project, english to spanish 
-
+# React Boilerplate
+A simple bare-bones boilerplate with webpack-dev-server
